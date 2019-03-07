@@ -1,0 +1,17 @@
+[IP:SUCCESS]
+IP:128.205.36.46
+[IP:END]
+[RELAYED:ERROR]
+[RELAYED:ERROR]
+[RELAYED:ERROR]
+[RELAYED:ERROR]
+[RELAYED:ERROR]
+[RELAYED:ERROR]
+[LIST:SUCCESS]
+0    highgate.cse.buffalo.edu           128.205.36.33       10101   
+1    timberlake.cse.buffalo.edu         128.205.36.8        12345   
+[LIST:END]
+[LIST:SUCCESS]
+0    highgate.cse.buffalo.edu           128.205.36.33       10101   
+2    highgate.cse.buffalo.edu           128.205.36.33       12345   
+[LIST:END]

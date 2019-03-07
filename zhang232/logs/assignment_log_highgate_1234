@@ -1,0 +1,8 @@
+[LOGIN:SUCCESS]
+[LOGIN:END]
+[LIST:SUCCESS]
+1    stones.cse.buffalo.edu             128.205.36.46       1233    
+2    highgate.cse.buffalo.edu           128.205.36.33       1234    
+[LIST:END]
+[SEND:SUCCESS]
+[SEND:END]

@@ -1,0 +1,12 @@
+[BLOCKED:SUCCESS]
+1    highgate.cse.buffalo.edu           128.205.36.33       12345   
+[BLOCKED:END]
+[LIST:SUCCESS]
+1    euston.cse.buffalo.edu             128.205.36.34       567     
+2    stones.cse.buffalo.edu             128.205.36.46       1234    
+3    highgate.cse.buffalo.edu           128.205.36.33       12345   
+[LIST:END]
+[BLOCKED:SUCCESS]
+[BLOCKED:END]
+[BLOCKED:SUCCESS]
+[BLOCKED:END]

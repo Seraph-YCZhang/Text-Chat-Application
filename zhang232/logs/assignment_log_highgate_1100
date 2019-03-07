@@ -1,0 +1,13 @@
+[IP:SUCCESS]
+IP:128.205.36.33
+[IP:END]
+[LIST:SUCCESS]
+[LIST:END]
+[LIST:SUCCESS]
+1    timberlake.cse.buffalo.edu         128.205.36.8        1101    
+2    embankment.cse.buffalo.edu         128.205.36.35       1102    
+[LIST:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.8, to:128.205.36.35
+[msg]:pA†!>HELLO
+[RELAYED:END]

@@ -1,0 +1,12 @@
+[LOGIN:SUCCESS]
+[LOGIN:END]
+[LIST:SUCCESS]
+1    stones.cse.buffalo.edu             128.205.36.46       1234    
+2    euston.cse.buffalo.edu             128.205.36.34       12345   
+[LIST:END]
+[SEND:SUCCESS]
+[SEND:END]
+[BROADCAST:SUCCESS]
+[BROADCAST:END]
+[SEND:SUCCESS]
+[SEND:END]

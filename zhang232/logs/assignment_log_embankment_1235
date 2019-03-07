@@ -1,0 +1,41 @@
+[RELAYED:ERROR]
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.46, to:255.255.255.255
+[msg]:123 
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.8, to:255.255.255.255
+[msg]:123 
+[RELAYED:END]
+[RELAYED:ERROR]
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.46, to:255.255.255.255
+[msg]:123 
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.46, to:255.255.255.255
+[msg]:123 
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.8, to:255.255.255.255
+[msg]:123 
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.8, to:255.255.255.255
+[msg]:HHHHHI 
+[RELAYED:END]
+[LIST:SUCCESS]
+1    euston.cse.buffalo.edu             128.205.36.34       1001    
+2    stones.cse.buffalo.edu             128.205.36.46       1003    
+3    timberlake.cse.buffalo.edu         128.205.36.8        123456  
+[LIST:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.8, to:128.205.36.34
+[msg]:HI 
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.8, to:128.205.36.46
+[msg]:HI 
+[RELAYED:END]

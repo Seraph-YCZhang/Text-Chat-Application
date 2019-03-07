@@ -1,0 +1,17 @@
+[LIST:SUCCESS]
+1    timberlake.cse.buffalo.edu         128.205.36.8        10001   
+2    stones.cse.buffalo.edu             128.205.36.46       10002   
+[LIST:END]
+[SEND:ERROR]
+[SEND:END]
+[REFRESH:SUCCESS]
+[REFRESH:END]
+[SEND:ERROR]
+[SEND:END]
+[LIST:SUCCESS]
+1    timberlake.cse.buffalo.edu         128.205.36.8        10001   
+2    stones.cse.buffalo.edu             128.205.36.46       10002   
+3    timberlake.cse.buffalo.edu         128.205.36.8        10003   
+[LIST:END]
+[LOGOUT:SUCCESS]
+[LOGOUT:END]

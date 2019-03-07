@@ -1,0 +1,12 @@
+[LOGIN:SUCCESS]
+[LOGIN:END]
+[LIST:SUCCESS]
+1    embankment.cse.buffalo.edu         128.205.36.35       10101   
+2    stones.cse.buffalo.edu             128.205.36.46       12345   
+[LIST:END]
+[SEND:SUCCESS]
+[SEND:END]
+[BROADCAST:SUCCESS]
+[BROADCAST:END]
+[SEND:SUCCESS]
+[SEND:END]

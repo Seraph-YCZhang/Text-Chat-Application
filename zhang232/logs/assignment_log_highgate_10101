@@ -1,0 +1,6 @@
+[SEND:ERROR]
+[SEND:END]
+[LIST:SUCCESS]
+0    highgate.cse.buffalo.edu           128.205.36.33       10101   
+2    highgate.cse.buffalo.edu           128.205.36.33       12345   
+[LIST:END]

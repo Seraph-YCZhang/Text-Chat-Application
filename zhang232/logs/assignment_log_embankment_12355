@@ -1,0 +1,26 @@
+[RELAYED:SUCCESS]
+msg from:128.205.36.8, to:255.255.255.255
+[msg]:HI 
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.46, to:255.255.255.255
+[msg]:HI 
+[RELAYED:END]
+[LIST:SUCCESS]
+1    stones.cse.buffalo.edu             128.205.36.46       1003    
+2    euston.cse.buffalo.edu             128.205.36.34       9999    
+[LIST:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.46, to:128.205.36.34
+[msg]:HELLO MY FRIEND 
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.34, to:128.205.36.46
+[msg]:HI 
+[RELAYED:END]
+[BLOCKED:SUCCESS]
+[BLOCKED:END]
+[RELAYED:ERROR]
+[RELAYED:END]
+[RELAYED:ERROR]
+[RELAYED:END]

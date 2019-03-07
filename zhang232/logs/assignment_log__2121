@@ -1,0 +1,15 @@
+[LIST
+:SUCCESS]
+1    localhost                          127.0.0.1           60366   
+[LIST
+:END]
+[PORT
+:SUCCESS]
+IP:2121
+[PORT
+:END]
+[IP
+:SUCCESS]
+IP:10.84.176.153
+[IP
+:END]

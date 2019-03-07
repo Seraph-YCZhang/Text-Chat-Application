@@ -1,0 +1,16 @@
+[RELAYED:SUCCESS]
+msg from:128.205.36.34, to:128.205.36.46
+[msg]:hi1
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.34, to:255.255.255.255
+[msg]:qwertyuiop
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.34, to:128.205.36.46
+[msg]:usleep(2000);1234567890qwertyuiop1234567890qwertyuiop1234567890qwertyuiop1234567890qwertyuiop1234567890qwertyuiop!@#$%^&*()_+HEEEEEL
+[RELAYED:END]
+[LIST:SUCCESS]
+1    stones.cse.buffalo.edu             128.205.36.46       1234    
+2    euston.cse.buffalo.edu             128.205.36.34       12345   
+[LIST:END]

@@ -1,0 +1,15 @@
+[IP:SUCCESS]
+IP:128.205.36.46
+[IP:END]
+[LIST:SUCCESS]
+1    highgate.cse.buffalo.edu           128.205.36.33       1233    
+2    euston.cse.buffalo.edu             128.205.36.34       8989    
+3    embankment.cse.buffalo.edu         128.205.36.35       9090    
+[LIST:END]
+[BLOCKED:SUCCESS]
+1                                                           0       
+[BLOCKED:END]
+[BLOCKED:SUCCESS]
+1                                                           0       
+2    highgate.cse.buffalo.edu           128.205.36.33       1233    
+[BLOCKED:END]
